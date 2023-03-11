@@ -27,11 +27,11 @@ export default function App() {
                   <div className="float-left">
                     <strong>6</strong>
                     <span className="units">
-                      <a href="#" id="celsius-link" class="active">
+                      <a href="/" id="celsius-link" class="active">
                         °C{" "}
                       </a>
                       |
-                      <a href="#" id="fahrenheit-link">
+                      <a href="/" id="fahrenheit-link">
                         °F
                       </a>
                     </span>
@@ -70,7 +70,7 @@ export default function App() {
         </a>
         open-sourced on
         <a
-          href="https://github.com/Flall/vanilla-weather-app"
+          href="https://github.com/Flall/weather-app-react"
           target="_blank"
           rel="noreferrer"
           class="footer"
