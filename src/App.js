@@ -80,7 +80,7 @@ export default function App() {
         </a>
         and hosted on
         <a
-          href="https://zesty-biscochitos-178337.netlify.app/"
+          href="https://precious-snickerdoodle-63a1c6.netlify.app"
           class="footer"
           target="_blank"
           rel="noreferrer"
